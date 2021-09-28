@@ -3,7 +3,7 @@ Transformer for low-level vision applications, such as image restoration (denosi
 
 ## image 
 
-* [ETH Zurich] Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao: Pre-Trained Image Processing Transformer. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)[[code]](https://github.
+* [Peking University] Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao: Pre-Trained Image Processing Transformer. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)[[code]](https://github.
 com/huawei-noah/Pretrained-IPT)
 * [ETH Zurich] Jingyun Liang
 Jiezhang Cao, Guolei Sun, Kai Zhang, Luc Van Gool, Radu Timofte: SwinIR: Image Restoration Using Swin Transformer. [[paper]](https://arxiv.org/pdf/2108.10257.pdf)[[code]](https://github.com/JingyunLiang/SwinIR)
