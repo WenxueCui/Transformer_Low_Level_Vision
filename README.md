@@ -12,3 +12,5 @@ Jiezhang Cao, Guolei Sun, Kai Zhang, Luc Van Gool, Radu Timofte: SwinIR: Image R
 
 
 ## video
+
+* [ETH Zurich] Jiezhang Cao, Yawei Li, Kai Zhang, Luc Van Gool: Video Super-Resolution Transformer. [[paper]](https://arxiv.org/abs/2106.06847)[[code]](https://github.com/caojiezhang/VSR-Transformer)
