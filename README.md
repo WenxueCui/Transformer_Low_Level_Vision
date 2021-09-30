@@ -9,7 +9,10 @@ Jiezhang Cao, Guolei Sun, Kai Zhang, Luc Van Gool, Radu Timofte: SwinIR: Image R
 * [Peking University] Zhisheng Lu, Hong Liu, Juncheng Li, Linlin Zhang: Efficient Transformer for Single Image Super-Resolution. [[paper]](https://arxiv.org/pdf/2108.11084.pdf)
 * [USTC] Zhendong Wang, Xiaodong Cun, Jianmin Bao, Jianzhuang Liu: Uformer: A General U-Shaped Transformer for Image Restoration. [[paper]](https://arxiv.org/pdf/2106.03106.pdf)[[code]](https://github.com/ZhendongWang6/Uformer)
 * [National University of Defense Technology] Zhengyu Liang, Yingqian Wang, Longguang Wang, Jungang Yang, Shilin Zhou: Light Field Image Super-Resolution with Transformers. [[paper]](https://arxiv.org/pdf/2108.07597.pdf)[[code]](https://github.com/ZhengyuLiang24/LFT)
-
+[Wuhan Institute of Technology] Yuanzhi Wang, Tao Lu, Yanduo Zhang, Junjun Jiang, Jiaming Wang, Zhongyuan Wang, Jiayi Ma: TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network. [[paper]](https://arxiv.org/pdf/2109.08174.pdf)
+[UESTC] Jin-Fan Hu, Ting-Zhu Huang, Liang-Jian Deng: Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution. [[paper]](https://arxiv.org/pdf/2109.02079.pdf)
+[USTB] Chao Yao; Shuaiyong Zhang; Mengyao Yang; Meiqin Liu; Junpeng Qi: Depth Super-Resolution by Texture-Depth Transformer. [[paper]](https://www.researchgate.net/publication/352997384_Depth_Super-Resolution_by_Texture-Depth_Transformer)
+[University of Massachusetts Lowell] Dayang Wang, Zhan Wu, Hengyong Yu:TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising. [[paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.04650.pdf)
 
 ## video
 
