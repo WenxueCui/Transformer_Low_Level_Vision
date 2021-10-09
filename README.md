@@ -17,3 +17,5 @@ Jiezhang Cao, Guolei Sun, Kai Zhang, Luc Van Gool, Radu Timofte: SwinIR: Image R
 ## video
 
 * [ETH Zurich] Jiezhang Cao, Yawei Li, Kai Zhang, Luc Van Gool: Video Super-Resolution Transformer. [[paper]](https://arxiv.org/abs/2106.06847)[[code]](https://github.com/caojiezhang/VSR-Transformer)
+
+* [Qualcomm Technologies] Hilmi E. Egilmez, Ankitesh K. Singh, Muhammed Coban, Marta Karczewicz, Yinhao Zhu, Yang Yang, Amir Said, Taco S. Cohen: Transform Network Architectures for Deep Learning based End-to-End Image/Video Coding in Subsampled Color Spaces. [[paper]](https://arxiv.org/pdf/2103.01760.pdf)
