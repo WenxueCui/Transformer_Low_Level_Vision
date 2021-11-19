@@ -13,9 +13,10 @@ Jiezhang Cao, Guolei Sun, Kai Zhang, Luc Van Gool, Radu Timofte: SwinIR: Image R
 * [UESTC] Jin-Fan Hu, Ting-Zhu Huang, Liang-Jian Deng: Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution. [[paper]](https://arxiv.org/pdf/2109.02079.pdf)
 * [USTB] Chao Yao; Shuaiyong Zhang; Mengyao Yang; Meiqin Liu; Junpeng Qi: Depth Super-Resolution by Texture-Depth Transformer. [[paper]](https://www.researchgate.net/publication/352997384_Depth_Super-Resolution_by_Texture-Depth_Transformer)
 * [University of Massachusetts Lowell] Dayang Wang, Zhan Wu, Hengyong Yu:TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising. [[paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.04650.pdf)
+* [Inception Institute of AI] Syed Waqas Zamir, Aditya Arora1 Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang: Restormer: Efficient Transformer for High-Resolution Image Restoration. [[paper]](https://arxiv.org/pdf/2111.09881.pdf)
 
 ## video
 
 * [ETH Zurich] Jiezhang Cao, Yawei Li, Kai Zhang, Luc Van Gool: Video Super-Resolution Transformer. [[paper]](https://arxiv.org/abs/2106.06847)[[code]](https://github.com/caojiezhang/VSR-Transformer)
 
-* [Qualcomm Technologies] Hilmi E. Egilmez, Ankitesh K. Singh, Muhammed Coban, Marta Karczewicz, Yinhao Zhu, Yang Yang, Amir Said, Taco S. Cohen: Transform Network Architectures for Deep Learning based End-to-End Image/Video Coding in Subsampled Color Spaces. [[paper]](https://arxiv.org/pdf/2103.01760.pdf)
+* [Nanjing University] Ming Lu, Peiyao Guo, Huiqing Shi, Chuntong Cao and Zhan Ma: Transformer-based Image Compression. [[paper]](https://arxiv.org/pdf/2111.06707.pdf)
