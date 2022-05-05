@@ -58,6 +58,10 @@ Transformer for low-level vision applications, such as image restoration (denosi
 
 * [National Chung Hsing University] Chi-Mao Fan and Tsung-Jung Liu, Kan-Hsien Liu: SUNet: Swin Transformer UNet for Image Denoising. [[paper]](https://arxiv.org/abs/2202.14009)
 
+* [Technical University of Munich] A. Burakhan Koyuncu, Han Gao, Eckehard Steinbach: contextformer: A Transformer with spatio-channel attention for context modeling in learned image compression. [[paper]](https://arxiv.org/pdf/2203.02452.pdf)
+
+* [Alibaba Group] Yichen Qian, Ming Lin, Xiuyu Sun: EnTroformer: A Transformer-based Entropy Model for Learned Image Compression. [[paper]](https://arxiv.org/pdf/2202.05492.pdf)
+
 
 ### Video
 
